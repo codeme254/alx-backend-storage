@@ -1,0 +1,2 @@
+// lists all the databases -> cat 0-list_databases | mongo
+show dbs
